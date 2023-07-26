@@ -1,0 +1,107 @@
+/* Using ChatGPT code */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 40px;
+}
+
+h1 {
+    font-size: 36px;
+    color: #444;
+    text-align: center;
+}
+
+h2 {
+    font-size: 28px;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.cta-button {
+    display: block;
+    text-align: center;
+    background-color: #f07a19;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+form {
+  margin: 0;
+  padding: 0;
+}
+
+form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+form input,
+form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+form textarea {
+  resize: vertical;
+}
+
+form button {
+  background-color: #f07a19;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #793909;
+}
+
+section#contact {
+  padding: 40px;
+}
+
+h2 {
+  font-size: 28px;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
